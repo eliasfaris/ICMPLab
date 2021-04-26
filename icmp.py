@@ -113,3 +113,4 @@ def ping(host, timeout=1):
 ping("127.0.0.1") # local host
 ping("1.0.4.0")  # australia
 ping("156.0.201.0") # antarctica
+ping("1.0.1.0") # china
